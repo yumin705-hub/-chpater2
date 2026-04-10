@@ -1,0 +1,8 @@
+streamlit
+numpy
+scipy
+sympy
+matplotlib
+openai
+google-generativeai
+anthropic
